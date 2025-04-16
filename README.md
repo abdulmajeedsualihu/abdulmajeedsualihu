@@ -3,3 +3,4 @@
 <img src="{https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow}" />
 
 <img src="{https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white}" />
+https://img.shields.io/badge/Cantell-Kawai-blue
