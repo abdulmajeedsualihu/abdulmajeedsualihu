@@ -2,7 +2,8 @@
 
   Hey Guys, Cantell here
   Ever wanted to connect? Kindly hit me up on my email => abdulmajeedsualihu2000@gmail.com.
-  X-handle > 
+  
+  X-handle > https://x.com/CantellKawai
 
 ![HTML](https://cdn-icons-png.flaticon.com/128/174/174854.png)
 ![CSS](https://cdn-icons-png.flaticon.com/128/732/732190.png)
