@@ -7,6 +7,8 @@
   
   X-handle > https://x.com/CantellKawai
 
+  Telegram > t.me/whoiscantell
+
 ![HTML](https://cdn-icons-png.flaticon.com/128/174/174854.png)
 ![CSS](https://cdn-icons-png.flaticon.com/128/732/732190.png)
 ![Javascript](https://cdn-icons-png.flaticon.com/128/5968/5968292.png)
