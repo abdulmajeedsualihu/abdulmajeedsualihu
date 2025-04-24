@@ -5,7 +5,7 @@
   
   Kindly hit me up on my email => abdulmajeedsualihu2000@gmail.com
   
-  X-handle > https://x.com/CantellKawai.
+  X-handle > https://x.com/CantellKawai
 
   Telegram > https://t.me/whoiscantell
 
