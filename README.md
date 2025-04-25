@@ -3,7 +3,7 @@
  ## Hey Guys, Cantell here
   Ever wanted to connect??
   
-  Kindly hit me up on my email => abdulmajeedsualihu2000@gmail.com
+  Kindly hit me up on my email ==> abdulmajeedsualihu2000@gmail.com
   
   X-handle > https://x.com/CantellKawai
 
