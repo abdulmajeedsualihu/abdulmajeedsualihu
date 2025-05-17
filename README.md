@@ -1,6 +1,6 @@
 u  # ![My Name](https://img.shields.io/badge/Cantell-Kawai-blue) 
 
- ## Hey Guys, Cantell here
+ ## Hey Guys, Cantell here...
   Ever wanted to connect???
   
   Kindly hit me up on my email ==> abdulmajeedsualihu2000@gmail.com
