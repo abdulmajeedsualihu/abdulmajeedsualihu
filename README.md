@@ -1,4 +1,4 @@
-  # ![My Name](https://img.shields.io/badge/Cantell-Kawai-blue) 
+# ![My Name](https://img.shields.io/badge/Cantell-Kawai-blue) 
 
  ## Hey Guys, Cantell here...
   Ever wanted to connect???
