@@ -2,12 +2,16 @@
 
  ## Hey Guys, Cantell here...
   Ever wanted to connect???
+
+```Python
   
   Kindly hit me up on my email ==> abdulmajeedsualihu2000@gmail.com
   
   X-handle > https://x.com/CantellKawai
 
   Telegram > https://t.me/whoiscantell
+
+```
 
 ![HTML](https://cdn-icons-png.flaticon.com/128/174/174854.png)
 ![CSS](https://cdn-icons-png.flaticon.com/128/732/732190.png)
