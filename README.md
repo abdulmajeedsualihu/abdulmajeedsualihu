@@ -5,14 +5,13 @@
 
 ```Python
   
-  Kindly hit me up on my email ==> abdulmajeedsualihu2000@gmail.com
+ - Kindly hit me up on my email ==> abdulmajeedsualihu2000@gmail.com
   
-  X-handle > https://x.com/CantellKawai
+ - X-handle > https://x.com/CantellKawai
 
-  Telegram > https://t.me/whoiscantell
+ - Telegram > https://t.me/whoiscantell
 
 ```
-
 ![HTML](https://cdn-icons-png.flaticon.com/128/174/174854.png)
 ![CSS](https://cdn-icons-png.flaticon.com/128/732/732190.png)
 ![Javascript](https://cdn-icons-png.flaticon.com/128/5968/5968292.png)
